@@ -11,5 +11,9 @@ This web application is designed to efficiently detect diseases in plants, helpi
 
 📚Dataset link :- https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
+This dataset is divided into three set i.e., Training_set , Validation_set & Test set 
+
 📚Large Files used in project link :https://drive.google.com/drive/folders/1eRwRIJOdFNWswWNUADvO8fEjvulBLZwa?usp=sharing
+
+   In this link ☝️ , two files are present traintmodel.h5 and hist.json file that is created after saving the trained model and history of a model.
 
