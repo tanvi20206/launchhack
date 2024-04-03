@@ -17,3 +17,5 @@ This dataset is divided into three set i.e., Training_set , Validation_set & Tes
 
    In this link ☝️ , two files are present traintmodel.h5 and hist.json file that is created after saving the trained model and history of a model.
 
+ To run the web application , load the trained file and run the main.py file by writing " streamlit run main.py" in terminal 
+
