@@ -10,5 +10,6 @@ This web application is designed to efficiently detect diseases in plants, helpi
     3. Our system will then analyze the image to identify any diseases present in the plant.
 
 📚Dataset link :- https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 📚Large Files used in project link :https://drive.google.com/drive/folders/1eRwRIJOdFNWswWNUADvO8fEjvulBLZwa?usp=sharing
 
